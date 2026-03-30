@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Pujun Feng (Marcus)"
   avatar           : "images/pj.png"
   bio              : "Peking University & Medin.ai"
   location         : "Beijing, China"
