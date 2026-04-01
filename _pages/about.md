@@ -20,10 +20,10 @@ redirect_from:
 Hi, I’m Pujun Feng👋 
 You may also call me Marcus 🐈‍⬛ 🐈‍⬛ 🐈‍⬛
 
-I am currently a Research Assistant at [Peking University](https://www.pku.edu.cn/) <img src='./images/pku.png' style="max-width: 1.5em; height: auto;"> and an Algorithm & Model Development Intern at <a href='[https://medin.ai/]'>Medin.ai</a> <img src='./images/medin.png' style="width: 4em;">.
+I am currently a Research Assistant at [Peking University](https://www.pku.edu.cn/) <img src='./images/pku.png' style="width: 1em; height:  1em;"> and an Algorithm & Model Development Intern at <a href='[https://medin.ai/]'>Medin.ai</a> <img src='./images/medin.png' style="width: 4em; height: 4em;">.
 
 
-Previously, I obtained my Master’s degree in Big Data and Internet of Things from the Faculty of Applied Sciences at Macao Polytechnic University <img src='./images/mpu.png' style="max-width: 1.5em; height: auto;">, where I was also involved in model development and multiple collaborative research projects at the <a href='[https://gemlab.site/index.html]'>GEM Lab </a> (Generalized Electric Medicine Group) <img src='./images/gem.png' style="max-width: 1.5em; height: auto;">.
+Previously, I obtained my Master’s degree in Big Data and Internet of Things from the Faculty of Applied Sciences at Macao Polytechnic University <img src='./images/mpu.png' style="mwidth: 1em; height: 1em;">, where I was also involved in model development and multiple collaborative research projects at the <a href='[https://gemlab.site/index.html]'>GEM Lab </a> (Generalized Electric Medicine Group) <img src='./images/gem.png' style="width: 1em; height: 1em;">.
 
 My research focuses on:
 
