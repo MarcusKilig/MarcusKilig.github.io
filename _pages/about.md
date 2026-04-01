@@ -17,14 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi, I’m Pujun Feng👋 
+You may also call me Marcus 🐈‍⬛ 🐈‍⬛ 🐈‍⬛
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently a Research Assistant at <a href=' [https://www.pku.edu.cn/]'>Peking University </a> and an Algorithm & Model Development Intern at <a href='[https://medin.ai/]'>Medin.ai</a>.
+
+Previously, I obtained my Master’s degree in Big Data and Internet of Things from the Faculty of Applied Sciences at Macao Polytechnic University, where I was also involved in model development and multiple collaborative research projects at the <a href='[https://gemlab.site/index.html]'>GEM Lab </a> (Generalized Electric Medicine Group).
+
+My research focuses on:
+
+📎 AI for Healthcare & Medicine 🏥
+📎 AI for Science 🔬
+📎 Medical Foundation Models 🧠
+📎 Multimodal Learning 🎯
+📎 Collaborative Intelligent Agents 🤖
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025*: &nbsp; 🎉🎉 “Data Element X” Competition (Beijing Division, Healthcare Track) Award
+- *2025*: &nbsp; 🎉🎉 Bronze Award, 14th “Challenge Cup” Qin Chuangyuan China College Students’ Entrepreneurship Plan Competition National Finals
+- *2022*: &nbsp;🎉🎉 Second Prize, 13th Blue Bridge Cup Provincial Software C/C++ Programming Competition
+- *2022*: &nbsp; 🎉🎉 National Encouragement Scholarship
+
 
 # 📝 Publications 
 
