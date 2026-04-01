@@ -29,9 +29,13 @@ Previously, I obtained my Master’s degree in Big Data and Internet of Things f
 My research focuses on:
 
 📎 AI for Healthcare/Medicine 🏥
+
 📎 AI for Science 🔬
+
 📎 Medical Foundation Models 🧠
+
 📎 Multimodal Learning 🎯
+
 📎 Collaborative Intelligent Agents 🤖
 
 
